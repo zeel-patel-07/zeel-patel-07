@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Study in Commerce
 
-- Visit My Project [Zeel Na Garba](https://github.com/zeel-patel-07/ZeelNaGarba) Yhis Project is Specially For Gujarati's people
+- Visit My Project [Zeel Na Garba](https://github.com/zeel-patel-07/ZeelNaGarba) This Project is Specially For Gujarati's people
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript**
 
