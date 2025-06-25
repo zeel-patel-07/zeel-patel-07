@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeel-patel-07&label=Profile%20views&color=0e75b6&style=flat" alt="zeel-patel-07" /> </p>
 
-- 🔭 I’m currently Study in Commerce
+- 🔭 I’m currently Study in BCA 
 
 - Visit My Project [Zeel Na Garba](https://github.com/zeel-patel-07/ZeelNaGarba) This Project is Specially For Gujarati's people
 
-- 🌱 I’m currently learning **HTML,CSS, JavaScript**
+- 🌱 I’m currently learning *Flutter App Devlopment**
 
 - 📫 How to reach me **zeel2digital@gmail.com**
 
