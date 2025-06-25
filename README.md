@@ -14,7 +14,7 @@
 - 🎓 I'm currently pursuing **Bachelor of Computer Applications (BCA)**
 - 📱 Passionate about **Flutter & Dart** for mobile app development
 - 📈 Actively learning and building exciting apps to improve my skills
-- 📌 Checkout my project: [Zeel Na Garba](https://github.com/zeel-patel-07/ZeelNaGarba) – A cultural app for Gujarati community
+- 📌 Checkout my project: [Zeel Na Garba](https://github.com/zeel-patel-07/ZeelNaGarba) – A cultural website for Gujarati community
 - 📫 Reach me at: **zeel2digital@gmail.com**
 - 😄 Fun fact: I'm the dev who codes with a smile 😅
 
