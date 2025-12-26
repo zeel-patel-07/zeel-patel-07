@@ -2,7 +2,7 @@
 <h3 align="center">🚀 BCA Student | Flutter App Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDk3b3ZndzVjZ2R5dXQ1b2QzMTRyNnZzZ3E1bXl1eHJjYzA3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="380" alt="coding gif"/>
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="Coding GIF"/>
 </p>
 
 <p align="center">
@@ -14,61 +14,43 @@
 ## 🧠 About Me
 
 - 🎓 BCA Student (FY)
-- 📱 Flutter App Developer (Beginner → Advanced journey)
-- 💡 Interested in **real-life problem solving apps**
-- 🔥 Learning **Firebase, APIs, UI/UX & Clean Architecture**
-- 🎯 Goal: Build useful apps + earn through tech
+- 📱 Flutter App Developer
+- 💡 Building real-life problem solving apps
+- 🔥 Learning Firebase, APIs & UI/UX
+- 🎯 Goal: Create useful apps & earn through tech
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+**Languages**
 - Dart
 - JavaScript
 - HTML & CSS
 - SQL (Basics)
 
-### 📱 Frameworks & Tools
-- Flutter
-- Firebase
-- Tailwind CSS
-- Git & GitHub
-- Netlify
-- VS Code / Android-based Editors
+**Frameworks & Tools**
+- Flutter  
+- Firebase  
+- Tailwind CSS  
+- Git & GitHub  
+- Netlify  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📌 ZilyQR  
-**QR Code Scanner & Generator Web App**
-- Custom QR styles
-- History tracking
-- PWA support
-- Firebase integration (planned)
-
-🔗 *Repo coming soon*
-
----
+QR Code Scanner & Generator (PWA)  
+Custom styles • History • Firebase-ready  
 
 ### 📌 ZilyTask  
-**Modern To-Do App**
-- Priority-based tasks
-- Dark / Light mode
-- Clean UI with animations
-
-🔗 *Repo coming soon*
-
----
+Modern To-Do App  
+Priority system • Dark mode • Smooth UI  
 
 ### 📌 ZilyCalculator  
-**Realistic Digital Calculator**
-- GT Function
-- Auto Review
-- DISP & +/- Support
-
-🔗 *Repo coming soon*
+Realistic Calculator  
+GT • Auto Review • DISP • +/-  
 
 ---
 
@@ -87,10 +69,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/zeel-patel-07" target="_blank">
+  <a href="https://github.com/zeel-patel-07">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://instagram.com/mrzeel_" target="_blank">
+  <a href="https://instagram.com/mrzeel_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -98,5 +80,5 @@
 ---
 
 <p align="center">
-  ⚡ <b>"Build apps that solve problems, not just apps that exist."</b>
+⚡ <b>"Build apps that solve problems, not just apps that exist."</b>
 </p>
