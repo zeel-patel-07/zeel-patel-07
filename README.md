@@ -15,21 +15,20 @@
 
 - 🎓 BCA Student (FY)
 - 📱 Flutter App Developer
-- 💡 Building real-life problem solving apps
+- 💡 Focused on real-life problem solving apps
 - 🔥 Learning Firebase, APIs & UI/UX
-- 🎯 Goal: Create useful apps & earn through tech
+- 🎯 Goal: Build meaningful apps & earn through tech
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Dart
-- JavaScript
-- HTML & CSS
-- SQL (Basics)
+### 💻 Languages
+- Dart  
+- JavaScript  
+- HTML & CSS  
 
-**Frameworks & Tools**
+### 📱 Frameworks & Tools
 - Flutter  
 - Firebase  
 - Tailwind CSS  
@@ -38,19 +37,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Future Project
 
-### 📌 ZilyQR  
-QR Code Scanner & Generator (PWA)  
-Custom styles • History • Firebase-ready  
+### 🧠 BrainFuse  
+**Smart Learning & Productivity App**
 
-### 📌 ZilyTask  
-Modern To-Do App  
-Priority system • Dark mode • Smooth UI  
+- Student-focused productivity system  
+- Learning + focus + task management (planned)  
+- Built with Flutter & Firebase  
+- Designed for real academic use cases  
 
-### 📌 ZilyCalculator  
-Realistic Calculator  
-GT • Auto Review • DISP • +/-  
+🔗 *Currently under development*
 
 ---
 
