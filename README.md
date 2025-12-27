@@ -15,7 +15,7 @@
 
 - 🎓 BCA Student (FY)
 - 📱 Flutter App Developer
-- 💡 Focused on real-life problem solving apps
+- 💡 Building real-life problem solving apps
 - 🔥 Learning Firebase, APIs & UI/UX
 - 🎯 Goal: Build meaningful apps & earn through tech
 
@@ -43,22 +43,10 @@
 
 - Student-focused productivity system  
 - Learning + focus + task management  
-- Built with Flutter & Firebase  
+- Built using Flutter & Firebase  
 - Designed for real academic use  
 
 🚧 *Currently under development*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeel-patel-07&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeel-patel-07&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -79,5 +67,5 @@
 ---
 
 <p align="center">
-⚡ <b>"Build apps that solve problems, not just apps that exist."</b>
+  ⚡ <b>"Build apps that solve problems, not just apps that exist."</b>
 </p>
