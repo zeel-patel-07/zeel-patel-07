@@ -43,7 +43,7 @@
 
 - Student-focused productivity system  
 - Learning + focus + task management  
-- Flutter + Firebase  
+- Built using Flutter & Firebase  
 - Designed for real academic use  
 
 🚧 *Currently under development*
@@ -61,7 +61,7 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/zeel-patel" target="_blank">
+  <a href="https://www.linkedin.com/in/zeel-gundaraniya-61a383387" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/>
   </a>
 </p>
