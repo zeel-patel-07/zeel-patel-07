@@ -15,7 +15,7 @@
 
 - 🎓 BCA Student (FY)
 - 📱 Flutter App Developer
-- 💡 Building real-life problem solving apps
+- 💡 Focused on real-life problem solving apps
 - 🔥 Learning Firebase, APIs & UI/UX
 - 🎯 Goal: Build meaningful apps & earn through tech
 
@@ -43,7 +43,7 @@
 
 - Student-focused productivity system  
 - Learning + focus + task management  
-- Built using Flutter & Firebase  
+- Flutter + Firebase  
 - Designed for real academic use  
 
 🚧 *Currently under development*
@@ -54,13 +54,15 @@
 
 <p align="center">
   <a href="https://github.com/zeel-patel-07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/mrzeel_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/zeel-patel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/>
   </a>
 </p>
 
