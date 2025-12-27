@@ -38,7 +38,7 @@
 ## 🚀 Future Project
 
 ### 🧠 BrainFuse  
-**Smart Learning & Productivity App**
+**Smart Learning With AI & Productivity App**
 
 - Student-focused productivity system  
 - Learning + focus + task management  
